@@ -4087,3 +4087,222 @@ Make sure 'Paladin_C' has been compiled for  Combo Attack Save
 [2023.10.20-01.14.49:076][  9]LogUObjectHash: Compacting FUObjectHashTables data took   1.43ms
 [2023.10.20-01.14.49:094][ 10]LogPlayLevel: Display: Destroying online subsystem :Context_155
 [2023.10.20-01.14.49:784][ 48]LogUObjectHash: Compacting FUObjectHashTables data took   1.59ms
+[2023.10.20-01.17.17:754][433]LogWorld: UWorld::CleanupWorld for World_128, bSessionEnded=true, bCleanupResources=true
+[2023.10.20-01.17.17:754][433]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.10.20-01.17.17:762][433]LogWorld: UWorld::CleanupWorld for World_127, bSessionEnded=true, bCleanupResources=true
+[2023.10.20-01.17.17:762][433]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.10.20-01.17.17:842][433]LogWorld: UWorld::CleanupWorld for World_129, bSessionEnded=true, bCleanupResources=true
+[2023.10.20-01.17.17:842][433]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.10.20-01.17.20:451][585]LogWorld: UWorld::CleanupWorld for World_126, bSessionEnded=true, bCleanupResources=true
+[2023.10.20-01.17.20:451][585]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.10.20-01.17.33:340][344]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.BP_ThirdPersonCharacter
+[2023.10.20-01.17.33:341][344]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.10.20-01.18.08:144][387]BlueprintLog: New page: Compile BP_ThirdPersonCharacter
+[2023.10.20-01.18.08:235][387]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2023.10.20-01.18.08:236][387]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2023.10.20-01.18.08:237][387]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2023.10.20-01.18.08:239][387]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2023.10.20-01.18.08:253][387]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2023.10.20-01.18.08:294][387]LogUObjectHash: Compacting FUObjectHashTables data took   1.71ms
+[2023.10.20-01.18.29:661][819]LogUObjectGlobals: Warning: Failed to find object 'Class None.DestructibleMesh'
+[2023.10.20-01.19.12:205][264]BlueprintLog: New page: Compile BP_ThirdPersonCharacter
+[2023.10.20-01.19.12:294][264]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2023.10.20-01.19.12:296][264]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2023.10.20-01.19.12:297][264]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2023.10.20-01.19.12:299][264]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2023.10.20-01.19.12:315][264]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2023.10.20-01.19.12:351][264]LogUObjectHash: Compacting FUObjectHashTables data took   1.60ms
+[2023.10.20-01.19.12:774][277]LogSavePackage: Moving output files for package: /Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter
+[2023.10.20-01.19.12:774][277]LogSavePackage: Moving '../../../../../../Users/seanp/Documents/Github/Unreal-Projects/FantasyGame/Saved/BP_ThirdPersonCharacter3F0574FB4F1F2096126A08A4415A80CC.tmp' to '../../../../../../Users/seanp/Documents/Github/Unreal-Projects/FantasyGame/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset'
+[2023.10.20-01.19.12:790][277]AssetCheck: New page: Asset Save: BP_ThirdPersonCharacter
+[2023.10.20-01.19.12:790][277]LogContentValidation: Display: Validating Blueprint /Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.BP_ThirdPersonCharacter
+[2023.10.20-01.19.17:978][588]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2023.10.20-01.19.26:970][126]BlueprintLog: New page: Compile BP_ThirdPersonCharacter
+[2023.10.20-01.19.27:060][126]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2023.10.20-01.19.27:062][126]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2023.10.20-01.19.27:063][126]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2023.10.20-01.19.27:064][126]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2023.10.20-01.19.27:081][126]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2023.10.20-01.19.27:119][126]LogUObjectHash: Compacting FUObjectHashTables data took   1.29ms
+[2023.10.20-01.19.27:568][141]LogSavePackage: Moving output files for package: /Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter
+[2023.10.20-01.19.27:570][141]LogSavePackage: Moving '../../../../../../Users/seanp/Documents/Github/Unreal-Projects/FantasyGame/Saved/BP_ThirdPersonCharacter035F95FA4ADCDD9171E25A9295B5960C.tmp' to '../../../../../../Users/seanp/Documents/Github/Unreal-Projects/FantasyGame/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset'
+[2023.10.20-01.19.27:586][141]AssetCheck: New page: Asset Save: BP_ThirdPersonCharacter
+[2023.10.20-01.19.27:586][141]LogContentValidation: Display: Validating Blueprint /Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.BP_ThirdPersonCharacter
+[2023.10.20-01.19.41:979][816]LogDebuggerCommands: Repeating last play command: New Editor Window (PIE)
+[2023.10.20-01.19.41:985][816]LogWorldPartition: Display: GenerateStreaming started...
+[2023.10.20-01.19.41:985][816]LogWorldPartition: Display: GetPartitionedActors started...
+[2023.10.20-01.19.41:985][816]LogWorldPartition: Warning: Invalid world bounds, grid partitioning will use a runtime grid with 1 cell.
+[2023.10.20-01.19.41:985][816]LogWorldPartition: Display: ValidateSingleActorReferer started...
+[2023.10.20-01.19.41:985][816]LogWorldPartition: Display: ValidateSingleActorReferer took 0 us
+[2023.10.20-01.19.41:985][816]LogWorldPartition: Display: GetPartitionedActors took 39 us
+[2023.10.20-01.19.41:985][816]LogWorldPartition: Display: GenerateStreaming took 240 us
+[2023.10.20-01.19.41:985][816]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.10.20-01.19.41:985][816]PIE: New page: PIE session: ThirdPersonMap (Oct 19, 2023, 3:19:41 PM)
+[2023.10.20-01.19.41:985][816]LogPlayLevel: Creating play world package: /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap
+[2023.10.20-01.19.41:990][816]LogWorldPartition: Initial Data Layer Effective States Activated() Loaded()
+[2023.10.20-01.19.41:990][816]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003764s)
+[2023.10.20-01.19.41:990][816]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap to /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap (0.003811s)
+[2023.10.20-01.19.41:990][816]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.10.20-01.19.41:990][816]LogAIModule: Creating AISystem for world ThirdPersonMap
+[2023.10.20-01.19.41:991][816]LogWorldPartition: Display: WorldPartition initialize started...
+[2023.10.20-01.19.41:991][816]LogWorldPartition: UWorldPartition::Initialize(IsEditor=0, IsGame=0, IsCooking=0)
+[2023.10.20-01.19.41:992][816]LogWorldPartition: Display: WorldPartition initialize took 1 ms
+[2023.10.20-01.19.41:992][816]LogPlayLevel: PIE: World Init took: (0.002099s)
+[2023.10.20-01.19.42:025][816]LogUObjectHash: Compacting FUObjectHashTables data took   1.97ms
+[2023.10.20-01.19.42:028][816]LogAudio: Display: Creating Audio Device:                 Id: 27, Scope: Unique, Realtime: True
+[2023.10.20-01.19.42:028][816]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.10.20-01.19.42:028][816]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.10.20-01.19.42:028][816]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.10.20-01.19.42:028][816]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.10.20-01.19.42:028][816]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2023.10.20-01.19.42:028][816]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2023.10.20-01.19.42:028][816]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2023.10.20-01.19.42:028][816]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.10.20-01.19.42:028][816]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.10.20-01.19.42:028][816]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.10.20-01.19.42:028][816]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.10.20-01.19.42:030][816]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.10.20-01.19.42:182][816]LogAudioMixer: Display: Using Audio Hardware Device Speaker (Realtek(R) Audio)
+[2023.10.20-01.19.42:182][816]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.10.20-01.19.42:182][816]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.10.20-01.19.42:182][816]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.10.20-01.19.42:184][816]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=27
+[2023.10.20-01.19.42:184][816]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=27
+[2023.10.20-01.19.42:186][816]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=27
+[2023.10.20-01.19.42:186][816]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=27
+[2023.10.20-01.19.42:186][816]LogInit: FAudioDevice initialized.
+[2023.10.20-01.19.42:186][816]LogAudio: Display: Audio Device (ID: 27) registered with world 'ThirdPersonMap'.
+[2023.10.20-01.19.42:249][816]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.10.20-01.19.42:250][816]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2023.10.20-01.19.42:251][816]LogWorld: Bringing World /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap up for play (max tick rate 60) at 2023.10.19-20.19.42
+[2023.10.20-01.19.42:251][816]LogWorld: Bringing up level for play took: 0.001572
+[2023.10.20-01.19.42:253][816]LogOnline: OSS: Created online subsystem instance for: :Context_157
+[2023.10.20-01.19.42:255][816]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2023.10.20-01.19.42:256][816]LogWorldPartition: New Streaming Source: PlayerController_0 -> Position: X=900.000 Y=1110.000 Z=92.013
+[2023.10.20-01.19.42:256][816]LogWorldPartition: Warning: Invalid world bounds, grid partitioning will use a runtime grid with 1 cell.
+[2023.10.20-01.19.42:259][816]PIE: Server logged in
+[2023.10.20-01.19.42:260][816]PIE: Play in editor total start time 0.276 seconds.
+[2023.10.20-01.19.42:286][816]LogViewport: Scene viewport resized to 1353x970, mode Windowed.
+[2023.10.20-01.20.21:534][148]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.10.20-01.20.21:534][148]LogWorld: BeginTearingDown for /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap
+[2023.10.20-01.20.21:535][148]LogSlate: Window 'FantasyGame Preview [NetMode: Standalone]  (64-bit/SM5)' being destroyed
+[2023.10.20-01.20.21:546][148]LogWorld: UWorld::CleanupWorld for ThirdPersonMap, bSessionEnded=true, bCleanupResources=true
+[2023.10.20-01.20.21:547][148]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.10.20-01.20.21:559][148]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.10.20-01.20.21:565][148]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.10.20-01.20.21:597][148]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.10.20-01.20.21:597][148]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=27
+[2023.10.20-01.20.21:598][148]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=27
+[2023.10.20-01.20.21:607][148]LogUObjectHash: Compacting FUObjectHashTables data took   1.22ms
+[2023.10.20-01.20.21:626][149]LogPlayLevel: Display: Destroying online subsystem :Context_157
+[2023.10.20-01.20.22:469][196]LogUObjectHash: Compacting FUObjectHashTables data took   1.37ms
+[2023.10.20-01.20.22:567][196]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2023.10.20-01.20.22:609][196]LogSavePackage: Moving output files for package: /Game/PlayerCharacters/Paladin/Paladin
+[2023.10.20-01.20.22:609][196]LogSavePackage: Moving '../../../../../../Users/seanp/Documents/Github/Unreal-Projects/FantasyGame/Saved/Paladin6730768A47CDC779CACFD586DE1FB055.tmp' to '../../../../../../Users/seanp/Documents/Github/Unreal-Projects/FantasyGame/Content/PlayerCharacters/Paladin/Paladin.uasset'
+[2023.10.20-01.20.22:628][196]AssetCheck: New page: Asset Save: Paladin
+[2023.10.20-01.20.22:628][196]LogContentValidation: Display: Validating Blueprint /Game/PlayerCharacters/Paladin/Paladin.Paladin
+[2023.10.20-01.23.37:369][817]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/PlayerCharacters/Paladin/Paladin.Paladin
+[2023.10.20-01.23.37:369][817]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.10.20-01.23.37:751][817]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2023.10.20-01.23.45:121][232]LogUObjectGlobals: Warning: Failed to find object 'Class None.DestructibleMesh'
+[2023.10.20-01.23.46:743][323]LogAssetEditorSubsystem: Opening Asset editor for SkeletalMesh /Game/ParagonGreystone/Characters/Heroes/Greystone/Meshes/Greystone.Greystone
+[2023.10.20-01.23.46:747][323]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.10.20-01.23.46:761][323]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_132:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2023.10.20-01.23.47:389][323]LogViewport: Scene viewport resized to 529x601, mode Windowed.
+[2023.10.20-01.23.49:162][420]LogSlate: Window 'Greystone' being destroyed
+[2023.10.20-01.23.49:172][420]LogWorld: UWorld::CleanupWorld for World_132, bSessionEnded=true, bCleanupResources=true
+[2023.10.20-01.23.49:172][420]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.10.20-01.23.52:539][607]LogAssetEditorSubsystem: Opening Asset editor for AnimBlueprint /Game/ParagonGreystone/Characters/Heroes/Greystone/Greystone_AnimBlueprint.Greystone_AnimBlueprint
+[2023.10.20-01.23.52:539][607]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.10.20-01.23.52:562][607]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.10.20-01.23.52:575][607]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_134:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2023.10.20-01.23.53:095][607]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.10.20-01.23.53:197][607]LogViewport: Scene viewport resized to 505x376, mode Windowed.
+[2023.10.20-01.23.53:262][607]LogContentBrowser: Verbose: The majority of assets in the view are of type: AnimSequence
+[2023.10.20-01.24.09:361][258]LogAudioMixer: Warning: AudioMixerPlatformInterface Timeout [4999ms] waiting for h/w. InstanceID=1
+[2023.10.20-01.24.14:361][258]LogAudioMixer: Warning: AudioMixerPlatformInterface Timeout [5000ms] waiting for h/w. InstanceID=1
+[2023.10.20-03.32.03:720][258]LogAudioMixer: Warning: AudioMixerPlatformInterface Timeout [7669390ms] waiting for h/w. InstanceID=1
+[2023.10.20-03.32.13:022][258]LogAudioMixer: Warning: AudioMixerPlatformInterface Timeout [5000ms] waiting for h/w. InstanceID=1
+[2023.10.20-03.32.14:743][258]LogAudioMixer: Warning: AudioMixerPlatformInterface Timeout [5000ms] waiting for h/w. InstanceID=1
+[2023.10.20-03.32.14:884][259]LogAudioMixer: Display: FMixerNullCallback: Simulating a h/w device callback at [21ms], ThreadID=11552
+[2023.10.20-03.32.14:885][259]LogHttp: Warning: 000005FC95636E00: invalid HTTP response code received. URL: https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B297AAA91-4B16-103D-4F60-248A1825F6EA%7D&AppID=UEEditor.Rocket.Release&AppVersion=5.0.3-20979098%2B%2B%2BUE5%2BRelease-5.0&UserID=ecd9199d462500b0e266799423cb059b%7C8e8ad268cb9b4032b6908372bc92a8d1%7C9867544a-8df0-4a15-b26a-8acf1de6ae14&AppEnvironment=datacollector-binary&UploadType=eteventstream, HTTP code: 0, content length: 0, actual payload size: 0
+[2023.10.20-03.32.14:885][259]LogHttp: Warning: 000005FC95636E00: request failed, libcurl error: 56 (Failure when receiving data from the peer)
+[2023.10.20-03.32.14:885][259]LogHttp: Warning: 000005FC95636E00: libcurl info message cache 0 (Found bundle for host datarouter.ol.epicgames.com: 0x5fc4f0c0000 [can pipeline])
+[2023.10.20-03.32.14:885][259]LogHttp: Warning: 000005FC95636E00: libcurl info message cache 1 (Re-using existing connection! (#0) with host datarouter.ol.epicgames.com)
+[2023.10.20-03.32.14:885][259]LogHttp: Warning: 000005FC95636E00: libcurl info message cache 2 (Connected to datarouter.ol.epicgames.com (54.209.161.130) port 443 (#0))
+[2023.10.20-03.32.14:885][259]LogHttp: Warning: 000005FC95636E00: libcurl info message cache 3 (We are completely uploaded and fine)
+[2023.10.20-03.32.14:885][259]LogHttp: Warning: 000005FC95636E00: libcurl info message cache 4 (OpenSSL SSL_read: SSL_ERROR_SYSCALL, errno 10054)
+[2023.10.20-03.32.14:885][259]LogHttp: Warning: 000005FC95636E00: libcurl info message cache 5 (Connection died, retrying a fresh connect)
+[2023.10.20-03.32.14:885][259]LogHttp: Warning: 000005FC95636E00: libcurl info message cache 6 (necessary data rewind wasn't possible)
+[2023.10.20-03.32.14:885][259]LogHttp: Warning: 000005FC95636E00: libcurl info message cache 7 (Closing connection 0)
+[2023.10.20-03.32.14:886][259]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B297AAA91-4B16-103D-4F60-248A1825F6EA%7D&AppID=UEEditor.Rocket.Release&AppVersion=5.0.3-20979098%2B%2B%2BUE5%2BRelease-5.0&UserID=ecd9199d462500b0e266799423cb059b%7C8e8ad268cb9b4032b6908372bc92a8d1%7C9867544a-8df0-4a15-b26a-8acf1de6ae14&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2023.10.20-03.32.16:113][262]LogAudioMixer: Display: Successful Swap new Device is (NumChannels=2, SampleRate=48000, DeviceID={0.0.0.00000000}.{a0c12e45-42ab-47ef-8a94-954e3c32c027}, Name=Speaker (Realtek(R) Audio)), Reason=AudioMixerPlatformInterface. Timeout waiting for h/w., InstanceID=1, DurationMS=1014.34
+[2023.10.20-03.32.16:114][262]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=1
+[2023.10.20-03.32.16:128][263]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=1
+[2023.10.20-03.32.32:437][810]LogDebuggerCommands: Repeating last play command: New Editor Window (PIE)
+[2023.10.20-03.32.32:445][810]LogWorldPartition: Display: GenerateStreaming started...
+[2023.10.20-03.32.32:445][810]LogWorldPartition: Display: GetPartitionedActors started...
+[2023.10.20-03.32.32:445][810]LogWorldPartition: Warning: Invalid world bounds, grid partitioning will use a runtime grid with 1 cell.
+[2023.10.20-03.32.32:445][810]LogWorldPartition: Display: ValidateSingleActorReferer started...
+[2023.10.20-03.32.32:445][810]LogWorldPartition: Display: ValidateSingleActorReferer took 0 us
+[2023.10.20-03.32.32:445][810]LogWorldPartition: Display: GetPartitionedActors took 39 us
+[2023.10.20-03.32.32:445][810]LogWorldPartition: Display: GenerateStreaming took 239 us
+[2023.10.20-03.32.32:445][810]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.10.20-03.32.32:445][810]PIE: New page: PIE session: ThirdPersonMap (Oct 19, 2023, 5:32:32 PM)
+[2023.10.20-03.32.32:445][810]LogPlayLevel: Creating play world package: /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap
+[2023.10.20-03.32.32:451][810]LogWorldPartition: Initial Data Layer Effective States Activated() Loaded()
+[2023.10.20-03.32.32:451][810]LogPlayLevel: PIE: StaticDuplicateObject took: (0.005751s)
+[2023.10.20-03.32.32:451][810]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap to /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap (0.005822s)
+[2023.10.20-03.32.32:451][810]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.10.20-03.32.32:452][810]LogAIModule: Creating AISystem for world ThirdPersonMap
+[2023.10.20-03.32.32:453][810]LogWorldPartition: Display: WorldPartition initialize started...
+[2023.10.20-03.32.32:453][810]LogWorldPartition: UWorldPartition::Initialize(IsEditor=0, IsGame=0, IsCooking=0)
+[2023.10.20-03.32.32:454][810]LogWorldPartition: Display: WorldPartition initialize took 1 ms
+[2023.10.20-03.32.32:454][810]LogPlayLevel: PIE: World Init took: (0.003037s)
+[2023.10.20-03.32.32:501][810]LogUObjectHash: Compacting FUObjectHashTables data took   1.82ms
+[2023.10.20-03.32.32:504][810]LogAudio: Display: Creating Audio Device:                 Id: 28, Scope: Unique, Realtime: True
+[2023.10.20-03.32.32:504][810]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.10.20-03.32.32:504][810]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.10.20-03.32.32:504][810]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.10.20-03.32.32:504][810]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.10.20-03.32.32:504][810]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2023.10.20-03.32.32:504][810]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2023.10.20-03.32.32:504][810]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2023.10.20-03.32.32:504][810]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.10.20-03.32.32:504][810]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.10.20-03.32.32:504][810]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.10.20-03.32.32:504][810]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.10.20-03.32.32:507][810]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.10.20-03.32.32:669][810]LogAudioMixer: Display: Using Audio Hardware Device Speaker (Realtek(R) Audio)
+[2023.10.20-03.32.32:669][810]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.10.20-03.32.32:669][810]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.10.20-03.32.32:669][810]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.10.20-03.32.32:670][810]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=28
+[2023.10.20-03.32.32:670][810]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=28
+[2023.10.20-03.32.32:672][810]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=28
+[2023.10.20-03.32.32:673][810]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=28
+[2023.10.20-03.32.32:673][810]LogInit: FAudioDevice initialized.
+[2023.10.20-03.32.32:673][810]LogAudio: Display: Audio Device (ID: 28) registered with world 'ThirdPersonMap'.
+[2023.10.20-03.32.32:741][810]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.10.20-03.32.32:741][810]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2023.10.20-03.32.32:742][810]LogWorld: Bringing World /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap up for play (max tick rate 60) at 2023.10.19-22.32.32
+[2023.10.20-03.32.32:742][810]LogWorld: Bringing up level for play took: 0.001561
+[2023.10.20-03.32.32:746][810]LogOnline: OSS: Created online subsystem instance for: :Context_163
+[2023.10.20-03.32.32:747][810]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2023.10.20-03.32.32:748][810]LogWorldPartition: New Streaming Source: PlayerController_0 -> Position: X=900.000 Y=1110.000 Z=92.013
+[2023.10.20-03.32.32:748][810]LogWorldPartition: Warning: Invalid world bounds, grid partitioning will use a runtime grid with 1 cell.
+[2023.10.20-03.32.32:750][810]PIE: Server logged in
+[2023.10.20-03.32.32:753][810]PIE: Play in editor total start time 0.309 seconds.
+[2023.10.20-03.32.32:764][810]LogViewport: Scene viewport resized to 1354x970, mode Windowed.
+[2023.10.20-03.32.36:411][ 16]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.10.20-03.32.36:411][ 16]LogWorld: BeginTearingDown for /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap
+[2023.10.20-03.32.36:411][ 16]LogSlate: Window 'FantasyGame Preview [NetMode: Standalone]  (64-bit/SM5)' being destroyed
+[2023.10.20-03.32.36:422][ 16]LogWorld: UWorld::CleanupWorld for ThirdPersonMap, bSessionEnded=true, bCleanupResources=true
+[2023.10.20-03.32.36:422][ 16]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.10.20-03.32.36:438][ 16]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.10.20-03.32.36:444][ 16]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.10.20-03.32.36:487][ 16]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.10.20-03.32.36:487][ 16]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=28
+[2023.10.20-03.32.36:488][ 16]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=28
+[2023.10.20-03.32.36:499][ 16]LogUObjectHash: Compacting FUObjectHashTables data took   1.48ms
+[2023.10.20-03.32.36:515][ 17]LogPlayLevel: Display: Destroying online subsystem :Context_163
