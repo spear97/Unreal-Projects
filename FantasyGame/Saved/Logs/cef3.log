@@ -1,0 +1,58 @@
+[1025/205726.827:ERROR:batching_media_log.cc(38)] MediaEvent: {"error":"FFmpegDemuxer: no supported streams"}
+[1025/205726.836:ERROR:batching_media_log.cc(35)] MediaEvent: {"pipeline_error":14}
+[1025/205726.841:ERROR:batching_media_log.cc(38)] MediaEvent: {"error":"FFmpegDemuxer: no supported streams"}
+[1025/205726.841:ERROR:batching_media_log.cc(35)] MediaEvent: {"pipeline_error":14}
+[1027/152244.420:WARNING:dns_config_service_win.cc(700)] Failed to read DnsConfig.
+[1027/152244.429:WARNING:dns_config_service_win.cc(700)] Failed to read DnsConfig.
+[1028/205718.463:WARNING:dns_config_service_win.cc(700)] Failed to read DnsConfig.
+[1028/205718.470:WARNING:dns_config_service_win.cc(700)] Failed to read DnsConfig.
+[1102/155219.043:ERROR:batching_media_log.cc(38)] MediaEvent: {"error":"FFmpegDemuxer: no supported streams"}
+[1102/155219.044:ERROR:batching_media_log.cc(35)] MediaEvent: {"pipeline_error":14}
+[1102/155219.399:ERROR:batching_media_log.cc(38)] MediaEvent: {"error":"FFmpegDemuxer: no supported streams"}
+[1102/155219.400:ERROR:batching_media_log.cc(35)] MediaEvent: {"pipeline_error":14}
+[1104/153545.888:ERROR:batching_media_log.cc(38)] MediaEvent: {"error":"FFmpegDemuxer: no supported streams"}
+[1104/153545.889:ERROR:batching_media_log.cc(35)] MediaEvent: {"pipeline_error":14}
+[1104/153545.892:ERROR:batching_media_log.cc(38)] MediaEvent: {"error":"FFmpegDemuxer: no supported streams"}
+[1104/153545.892:ERROR:batching_media_log.cc(35)] MediaEvent: {"pipeline_error":14}
+[1104/171425.336:WARNING:dns_config_service_win.cc(700)] Failed to read DnsConfig.
+[1104/171425.366:WARNING:dns_config_service_win.cc(700)] Failed to read DnsConfig.
+[1104/171430.343:WARNING:dns_config_service_win.cc(700)] Failed to read DnsConfig.
+[1104/171430.377:WARNING:dns_config_service_win.cc(700)] Failed to read DnsConfig.
+[1104/171435.348:WARNING:dns_config_service_win.cc(700)] Failed to read DnsConfig.
+[1104/171435.391:WARNING:dns_config_service_win.cc(700)] Failed to read DnsConfig.
+[1104/171440.353:WARNING:dns_config_service_win.cc(700)] Failed to read DnsConfig.
+[1104/171440.404:WARNING:dns_config_service_win.cc(700)] Failed to read DnsConfig.
+[1104/171445.360:WARNING:dns_config_service_win.cc(700)] Failed to read DnsConfig.
+[1104/171445.423:WARNING:dns_config_service_win.cc(700)] Failed to read DnsConfig.
+[1104/171450.365:WARNING:dns_config_service_win.cc(700)] Failed to read DnsConfig.
+[1104/171450.443:WARNING:dns_config_service_win.cc(700)] Failed to read DnsConfig.
+[1104/171455.371:WARNING:dns_config_service_win.cc(700)] Failed to read DnsConfig.
+[1104/171455.453:WARNING:dns_config_service_win.cc(700)] Failed to read DnsConfig.
+[1104/171500.378:WARNING:dns_config_service_win.cc(700)] Failed to read DnsConfig.
+[1104/171500.462:WARNING:dns_config_service_win.cc(700)] Failed to read DnsConfig.
+[1104/171505.387:WARNING:dns_config_service_win.cc(700)] Failed to read DnsConfig.
+[1104/171505.485:WARNING:dns_config_service_win.cc(700)] Failed to read DnsConfig.
+[1104/171510.392:WARNING:dns_config_service_win.cc(700)] Failed to read DnsConfig.
+[1104/171510.505:WARNING:dns_config_service_win.cc(700)] Failed to read DnsConfig.
+[1104/171515.397:WARNING:dns_config_service_win.cc(700)] Failed to read DnsConfig.
+[1104/171515.518:WARNING:dns_config_service_win.cc(700)] Failed to read DnsConfig.
+[1104/171520.404:WARNING:dns_config_service_win.cc(700)] Failed to read DnsConfig.
+[1104/171520.538:WARNING:dns_config_service_win.cc(700)] Failed to read DnsConfig.
+[1104/171525.411:WARNING:dns_config_service_win.cc(700)] Failed to read DnsConfig.
+[1104/171525.550:WARNING:dns_config_service_win.cc(700)] Failed to read DnsConfig.
+[1104/171530.416:WARNING:dns_config_service_win.cc(700)] Failed to read DnsConfig.
+[1104/171530.565:WARNING:dns_config_service_win.cc(700)] Failed to read DnsConfig.
+[1104/193726.840:ERROR:network_service_instance_impl.cc(263)] Network service crashed, restarting service.
+[1104/193726.874:WARNING:gpu_process_host.cc(1230)] The GPU process has crashed 1 time(s)
+[1104/193727.276:WARNING:gpu_process_host.cc(972)] Reinitialized the GPU process after a crash. The reported initialization time was 278 ms
+[1105/183028.773:ERROR:batching_media_log.cc(38)] MediaEvent: {"error":"FFmpegDemuxer: no supported streams"}
+[1105/183028.774:ERROR:batching_media_log.cc(35)] MediaEvent: {"pipeline_error":14}
+[1105/183028.775:ERROR:batching_media_log.cc(38)] MediaEvent: {"error":"FFmpegDemuxer: no supported streams"}
+[1105/183028.775:ERROR:batching_media_log.cc(35)] MediaEvent: {"pipeline_error":14}
+[1105/183028.810:WARNING:spdy_session.cc(3365)] Received HEADERS for invalid stream 19
+[1111/120809.833:ERROR:batching_media_log.cc(38)] MediaEvent: {"error":"FFmpegDemuxer: no supported streams"}
+[1111/120809.847:ERROR:batching_media_log.cc(35)] MediaEvent: {"pipeline_error":14}
+[1111/120809.849:ERROR:batching_media_log.cc(38)] MediaEvent: {"error":"FFmpegDemuxer: no supported streams"}
+[1111/120809.849:ERROR:batching_media_log.cc(35)] MediaEvent: {"pipeline_error":14}
+[1111/120809.893:WARNING:spdy_session.cc(3365)] Received HEADERS for invalid stream 15
+[1117/023000.084:WARNING:gpu_process_host.cc(1230)] The GPU process has crashed 1 time(s)
